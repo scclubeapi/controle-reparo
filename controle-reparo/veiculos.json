@@ -1,0 +1,17 @@
+[
+  {
+    "placa": "SADAD",
+    "modelo": "asdada",
+    "nomeAssociado": "dada",
+    "telefone": "dasdad",
+    "oficina": "dasdasd",
+    "cidade": "adasd",
+    "tipoDano": "Elétrica",
+    "status": "andamento",
+    "dataEntrada": "2026-08-26",
+    "prazoEntrega": "2027-05-02",
+    "observacoes": "",
+    "id": 1,
+    "criadoEm": "2026-08-26T19:42:55.203Z"
+  }
+]
